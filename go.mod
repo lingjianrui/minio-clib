@@ -1,4 +1,4 @@
-module new/minio/client
+module github.com/lingjianrui/minio-clib
 
 go 1.20
 
